@@ -1,0 +1,9 @@
+C:\Users\Кира\Desktop\repos\TextParseCount\TextParseCount\bin\Release\TextParseCount.exe.config
+C:\Users\Кира\Desktop\repos\TextParseCount\TextParseCount\bin\Release\TextParseCount.exe
+C:\Users\Кира\Desktop\repos\TextParseCount\TextParseCount\bin\Release\TextParseCount.pdb
+C:\Users\Кира\Desktop\repos\TextParseCount\TextParseCount\obj\Release\TextParseCount.Form1.resources
+C:\Users\Кира\Desktop\repos\TextParseCount\TextParseCount\obj\Release\TextParseCount.Properties.Resources.resources
+C:\Users\Кира\Desktop\repos\TextParseCount\TextParseCount\obj\Release\TextParseCount.csproj.GenerateResource.cache
+C:\Users\Кира\Desktop\repos\TextParseCount\TextParseCount\obj\Release\TextParseCount.csproj.CoreCompileInputs.cache
+C:\Users\Кира\Desktop\repos\TextParseCount\TextParseCount\obj\Release\TextParseCount.exe
+C:\Users\Кира\Desktop\repos\TextParseCount\TextParseCount\obj\Release\TextParseCount.pdb
